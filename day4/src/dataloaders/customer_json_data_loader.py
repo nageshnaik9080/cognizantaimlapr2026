@@ -1,8 +1,8 @@
 import pandas as pd
-from dataloaders.customer_data_loader import CustomerDataLoader
-from stores.customer_store_implementation import CustomerStoreImp
-from models.customer import Customer
-from models.full_name import FullName
+from src.dataloaders.customer_data_loader import CustomerDataLoader
+from src.stores.customer_store_implementation import CustomerStoreImp
+from src.models.customer import Customer
+from src.models.full_name import FullName
 
 
 class CustomerJSONDataLoader(CustomerDataLoader):

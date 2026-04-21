@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/workspaces/cognizantaimlapril2026/day4/day4env"
+set -gx VIRTUAL_ENV "/workspaces/cognizantaimlapr2026/day4/day4env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

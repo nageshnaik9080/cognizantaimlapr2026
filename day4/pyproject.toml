@@ -3,7 +3,7 @@ name = "Banking_Project"
 version = "1.0.0"
 description = "A simple banking project implemented in Python."
 authors = [
-    { name = "Shanmuga Lingam K", email = "shanmugal@gmail.com" }
+    { name = "Nagesh Naik", email = "jatavathnagesh9080@gmail.com" }
 ] 
 readme = "README.md" 
 requires-python = ">=3.8"

@@ -1,9 +1,9 @@
 #create customer csv data loader implementation from customer data loader abstract class
 import pandas as pd
-from dataloaders.customer_data_loader import CustomerDataLoader
-from stores.customer_store_implementation import CustomerStoreImp
-from models.customer import Customer
-from models.full_name import FullName
+from .customer_data_loader import CustomerDataLoader
+from ..stores.customer_store_implementation import CustomerStoreImp
+from ..models.customer import Customer
+from ..models.full_name import FullName
  
  
 class CustomerCSVDataLoader(CustomerDataLoader):

@@ -2,7 +2,7 @@ Metadata-Version: 2.4
 Name: Banking_Project
 Version: 1.0.0
 Summary: A simple banking project implemented in Python.
-Author-email: Shanmuga Lingam K <shanmugal@gmail.com>
+Author-email: Nagesh Naik <jatavathnagesh9080@gmail.com>
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 Requires-Dist: faker>=13.3.4
