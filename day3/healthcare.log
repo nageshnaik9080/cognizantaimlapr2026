@@ -1,0 +1,174 @@
+2026-04-16 09:46:07,208 - healthcare_logger - INFO - app initialized
+2026-04-16 09:48:12,036 - healthcare_logger - INFO - app initialized
+2026-04-16 09:56:46,691 - healthcare_logger - INFO - app initialized
+2026-04-16 10:00:38,248 - healthcare - INFO - app initializ
+2026-04-16 10:01:01,194 - healthcare_logger - INFO - app initialized
+2026-04-17 04:49:49,770 - healthcare_logger - INFO - app initialized
+2026-04-17 06:22:55,742 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:22:55,743 - healthcare_logger - INFO - Adding doctor: Doctor(id=9853, name='Tracy Rodgers', specialization='Scientific laboratory technician')
+2026-04-17 06:22:55,743 - healthcare_logger - INFO - Retrieving doctor with ID: 9853
+2026-04-17 06:22:55,743 - healthcare_logger - INFO - Doctor added: Doctor(id=9853, name='Tracy Rodgers', specialization='Scientific laboratory technician')
+2026-04-17 06:22:55,743 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:22:55,744 - healthcare_logger - INFO - Adding patient: Patient(id=6712, name='Joseph Barber', dob=1940-06-29, ailment='His station example might morning both any.')
+2026-04-17 06:22:55,744 - healthcare_logger - INFO - Retrieving patient with ID: 6712
+2026-04-17 06:22:55,744 - healthcare_logger - INFO - Patient added: Patient(id=6712, name='Joseph Barber', dob=1940-06-29, ailment='His station example might morning both any.')
+2026-04-17 06:22:55,744 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:22:55,744 - healthcare_logger - INFO - Retrieving doctor with ID: 9853
+2026-04-17 06:22:55,745 - healthcare_logger - INFO - Retrieving patient with ID: 6712
+2026-04-17 06:22:55,745 - healthcare_logger - INFO - Adding appointment: Appointment(id=7523, doctor=Doctor(id=9853, name='Tracy Rodgers', specialization='Scientific laboratory technician'), patient=Patient(id=6712, name='Joseph Barber', dob=1940-06-29, ailment='His station example might morning both any.'), date=2015-08-24, time=04:46:29)
+2026-04-17 06:23:02,679 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:23:02,680 - healthcare_logger - INFO - Adding doctor: Doctor(id=3748, name='Peter Mcdaniel', specialization='Surveyor, land/geomatics')
+2026-04-17 06:23:02,680 - healthcare_logger - INFO - Retrieving doctor with ID: 3748
+2026-04-17 06:23:02,680 - healthcare_logger - INFO - Doctor added: Doctor(id=3748, name='Peter Mcdaniel', specialization='Surveyor, land/geomatics')
+2026-04-17 06:23:02,680 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:23:02,680 - healthcare_logger - INFO - Adding patient: Patient(id=9287, name='Gregory Warren', dob=1987-03-13, ailment='Issue rich today tend organization international evidence.')
+2026-04-17 06:23:02,680 - healthcare_logger - INFO - Retrieving patient with ID: 9287
+2026-04-17 06:23:02,680 - healthcare_logger - INFO - Patient added: Patient(id=9287, name='Gregory Warren', dob=1987-03-13, ailment='Issue rich today tend organization international evidence.')
+2026-04-17 06:23:02,681 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:23:02,681 - healthcare_logger - INFO - Retrieving doctor with ID: 3748
+2026-04-17 06:23:02,681 - healthcare_logger - INFO - Retrieving patient with ID: 9287
+2026-04-17 06:23:02,681 - healthcare_logger - INFO - Adding appointment: Appointment(id=1424, doctor=Doctor(id=3748, name='Peter Mcdaniel', specialization='Surveyor, land/geomatics'), patient=Patient(id=9287, name='Gregory Warren', dob=1987-03-13, ailment='Issue rich today tend organization international evidence.'), date=2010-03-15, time=22:31:35)
+2026-04-17 06:23:10,787 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:23:10,787 - healthcare_logger - INFO - Adding doctor: Doctor(id=498, name='Michael Rubio', specialization='Secondary school teacher')
+2026-04-17 06:23:10,787 - healthcare_logger - INFO - Retrieving doctor with ID: 498
+2026-04-17 06:23:10,787 - healthcare_logger - INFO - Doctor added: Doctor(id=498, name='Michael Rubio', specialization='Secondary school teacher')
+2026-04-17 06:23:10,787 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:23:10,788 - healthcare_logger - INFO - Adding patient: Patient(id=9331, name='Tyler Edwards', dob=2011-08-31, ailment='Treat growth but music.')
+2026-04-17 06:23:10,788 - healthcare_logger - INFO - Retrieving patient with ID: 9331
+2026-04-17 06:23:10,788 - healthcare_logger - INFO - Patient added: Patient(id=9331, name='Tyler Edwards', dob=2011-08-31, ailment='Treat growth but music.')
+2026-04-17 06:23:10,788 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:23:10,788 - healthcare_logger - INFO - Retrieving doctor with ID: 498
+2026-04-17 06:23:10,788 - healthcare_logger - INFO - Retrieving patient with ID: 9331
+2026-04-17 06:23:10,789 - healthcare_logger - INFO - Adding appointment: Appointment(id=742, doctor=Doctor(id=498, name='Michael Rubio', specialization='Secondary school teacher'), patient=Patient(id=9331, name='Tyler Edwards', dob=2011-08-31, ailment='Treat growth but music.'), date=2000-07-07, time=07:26:40)
+2026-04-17 06:23:10,789 - healthcare_logger - INFO - Fetching appointment with ID: 742
+2026-04-17 06:23:13,361 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:23:13,362 - healthcare_logger - INFO - Adding doctor: Doctor(id=5443, name='Matthew Grant', specialization='Counselling psychologist')
+2026-04-17 06:23:13,362 - healthcare_logger - INFO - Retrieving doctor with ID: 5443
+2026-04-17 06:23:13,362 - healthcare_logger - INFO - Doctor added: Doctor(id=5443, name='Matthew Grant', specialization='Counselling psychologist')
+2026-04-17 06:23:13,362 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:23:13,362 - healthcare_logger - INFO - Adding patient: Patient(id=6012, name='Eric Reynolds', dob=2019-01-25, ailment='Arrive movie from hotel.')
+2026-04-17 06:23:13,362 - healthcare_logger - INFO - Retrieving patient with ID: 6012
+2026-04-17 06:23:13,362 - healthcare_logger - INFO - Patient added: Patient(id=6012, name='Eric Reynolds', dob=2019-01-25, ailment='Arrive movie from hotel.')
+2026-04-17 06:23:13,362 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:23:13,362 - healthcare_logger - INFO - Retrieving doctor with ID: 5443
+2026-04-17 06:23:13,362 - healthcare_logger - INFO - Retrieving patient with ID: 6012
+2026-04-17 06:23:13,363 - healthcare_logger - INFO - Adding appointment: Appointment(id=4455, doctor=Doctor(id=5443, name='Matthew Grant', specialization='Counselling psychologist'), patient=Patient(id=6012, name='Eric Reynolds', dob=2019-01-25, ailment='Arrive movie from hotel.'), date=2007-01-16, time=19:10:01)
+2026-04-17 06:23:13,363 - healthcare_logger - INFO - Fetching appointment with ID: 4455
+2026-04-17 06:23:40,872 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:23:40,872 - healthcare_logger - INFO - Adding doctor: Doctor(id=902, name='Phyllis Robbins MD', specialization='Bookseller')
+2026-04-17 06:23:40,872 - healthcare_logger - INFO - Retrieving doctor with ID: 902
+2026-04-17 06:23:40,872 - healthcare_logger - INFO - Doctor added: Doctor(id=902, name='Phyllis Robbins MD', specialization='Bookseller')
+2026-04-17 06:23:40,872 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:23:40,873 - healthcare_logger - INFO - Adding patient: Patient(id=3066, name='Regina Washington', dob=2017-10-17, ailment='Author treatment collection learn.')
+2026-04-17 06:23:40,873 - healthcare_logger - INFO - Retrieving patient with ID: 3066
+2026-04-17 06:23:40,873 - healthcare_logger - INFO - Patient added: Patient(id=3066, name='Regina Washington', dob=2017-10-17, ailment='Author treatment collection learn.')
+2026-04-17 06:23:40,873 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:23:40,873 - healthcare_logger - INFO - Retrieving doctor with ID: 902
+2026-04-17 06:23:40,873 - healthcare_logger - INFO - Retrieving patient with ID: 3066
+2026-04-17 06:24:06,604 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:24:06,605 - healthcare_logger - INFO - Adding doctor: Doctor(id=6410, name='Aaron Wang', specialization='Engineer, energy')
+2026-04-17 06:24:06,605 - healthcare_logger - INFO - Retrieving doctor with ID: 6410
+2026-04-17 06:24:06,605 - healthcare_logger - INFO - Doctor added: Doctor(id=6410, name='Aaron Wang', specialization='Engineer, energy')
+2026-04-17 06:24:06,605 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:24:06,606 - healthcare_logger - INFO - Adding patient: Patient(id=6165, name='Matthew Butler', dob=1967-10-10, ailment='Pretty official thus contain audience eat should professional.')
+2026-04-17 06:24:06,606 - healthcare_logger - INFO - Retrieving patient with ID: 6165
+2026-04-17 06:24:06,606 - healthcare_logger - INFO - Patient added: Patient(id=6165, name='Matthew Butler', dob=1967-10-10, ailment='Pretty official thus contain audience eat should professional.')
+2026-04-17 06:24:06,606 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:24:06,607 - healthcare_logger - INFO - Retrieving doctor with ID: 6410
+2026-04-17 06:24:06,607 - healthcare_logger - INFO - Retrieving patient with ID: 6165
+2026-04-17 06:24:12,187 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:24:12,187 - healthcare_logger - INFO - Adding doctor: Doctor(id=7926, name='Michele Baldwin', specialization='Lobbyist')
+2026-04-17 06:24:12,187 - healthcare_logger - INFO - Retrieving doctor with ID: 7926
+2026-04-17 06:24:12,187 - healthcare_logger - INFO - Doctor added: Doctor(id=7926, name='Michele Baldwin', specialization='Lobbyist')
+2026-04-17 06:24:12,187 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:24:12,188 - healthcare_logger - INFO - Adding patient: Patient(id=1348, name='Michael Jones', dob=1918-09-13, ailment='Second either fire probably difficult want ability candidate.')
+2026-04-17 06:24:12,188 - healthcare_logger - INFO - Retrieving patient with ID: 1348
+2026-04-17 06:24:12,188 - healthcare_logger - INFO - Patient added: Patient(id=1348, name='Michael Jones', dob=1918-09-13, ailment='Second either fire probably difficult want ability candidate.')
+2026-04-17 06:24:12,188 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:24:12,188 - healthcare_logger - INFO - Retrieving doctor with ID: 7926
+2026-04-17 06:24:12,188 - healthcare_logger - INFO - Retrieving patient with ID: 1348
+2026-04-17 06:41:52,839 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:41:52,842 - healthcare_logger - INFO - Adding doctor: Doctor(id=3940, name='Derek Thompson', specialization='Barrister')
+2026-04-17 06:41:52,842 - healthcare_logger - INFO - Retrieving doctor with ID: 3940
+2026-04-17 06:41:52,842 - healthcare_logger - INFO - Doctor added: Doctor(id=3940, name='Derek Thompson', specialization='Barrister')
+2026-04-17 06:41:52,843 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:41:52,843 - healthcare_logger - INFO - Adding patient: Patient(id=7758, name='Duane Castro', dob=2001-09-27, ailment='Two director according understand single.')
+2026-04-17 06:41:52,844 - healthcare_logger - INFO - Retrieving patient with ID: 7758
+2026-04-17 06:41:52,844 - healthcare_logger - INFO - Patient added: Patient(id=7758, name='Duane Castro', dob=2001-09-27, ailment='Two director according understand single.')
+2026-04-17 06:41:52,844 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:41:52,845 - healthcare_logger - INFO - Retrieving doctor with ID: 3940
+2026-04-17 06:41:52,845 - healthcare_logger - INFO - Retrieving patient with ID: 7758
+2026-04-17 06:41:52,846 - healthcare_logger - INFO - Adding appointment: Appointment(id=5461, doctor=Doctor(id=3940, name='Derek Thompson', specialization='Barrister'), patient=Patient(id=7758, name='Duane Castro', dob=2001-09-27, ailment='Two director according understand single.'), date=1973-03-15, time=20:54:58)
+2026-04-17 06:41:52,847 - healthcare_logger - INFO - Fetching appointment with ID: 5461
+2026-04-17 06:41:52,847 - healthcare_logger - INFO - Appointment added: Appointment(id=5461, doctor=Doctor(id=3940, name='Derek Thompson', specialization='Barrister'), patient=Patient(id=7758, name='Duane Castro', dob=2001-09-27, ailment='Two director according understand single.'), date=1973-03-15, time=20:54:58)
+2026-04-17 06:42:06,881 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:42:06,882 - healthcare_logger - INFO - Adding doctor: Doctor(id=2049, name='Helen Bray', specialization='Dietitian')
+2026-04-17 06:42:06,882 - healthcare_logger - INFO - Retrieving doctor with ID: 2049
+2026-04-17 06:42:06,882 - healthcare_logger - INFO - Doctor added: Doctor(id=2049, name='Helen Bray', specialization='Dietitian')
+2026-04-17 06:42:06,882 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:42:06,883 - healthcare_logger - INFO - Adding patient: Patient(id=8679, name='Nicholas Young', dob=1958-07-27, ailment='Door risk method total beyond should carry.')
+2026-04-17 06:42:06,883 - healthcare_logger - INFO - Retrieving patient with ID: 8679
+2026-04-17 06:42:06,883 - healthcare_logger - INFO - Patient added: Patient(id=8679, name='Nicholas Young', dob=1958-07-27, ailment='Door risk method total beyond should carry.')
+2026-04-17 06:42:06,883 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:42:06,883 - healthcare_logger - INFO - Retrieving doctor with ID: 2049
+2026-04-17 06:42:06,883 - healthcare_logger - INFO - Retrieving patient with ID: 8679
+2026-04-17 06:42:06,883 - healthcare_logger - INFO - Adding appointment: Appointment(id=4447, doctor=Doctor(id=2049, name='Helen Bray', specialization='Dietitian'), patient=Patient(id=8679, name='Nicholas Young', dob=1958-07-27, ailment='Door risk method total beyond should carry.'), date=2024-09-15, time=14:13:59)
+2026-04-17 06:42:06,883 - healthcare_logger - INFO - Fetching appointment with ID: 4447
+2026-04-17 06:42:06,883 - healthcare_logger - INFO - Appointment added: Appointment(id=4447, doctor=Doctor(id=2049, name='Helen Bray', specialization='Dietitian'), patient=Patient(id=8679, name='Nicholas Young', dob=1958-07-27, ailment='Door risk method total beyond should carry.'), date=2024-09-15, time=14:13:59)
+2026-04-17 06:42:40,239 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:42:40,240 - healthcare_logger - INFO - Adding doctor: Doctor(id=7273, name='Pamela Brown MD', specialization='Television floor manager')
+2026-04-17 06:42:40,240 - healthcare_logger - INFO - Retrieving doctor with ID: 7273
+2026-04-17 06:42:40,240 - healthcare_logger - INFO - Doctor added: Doctor(id=7273, name='Pamela Brown MD', specialization='Television floor manager')
+2026-04-17 06:42:40,240 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:42:40,241 - healthcare_logger - INFO - Adding patient: Patient(id=8141, name='Amy Wright', dob=1974-04-07, ailment='Effort for onto.')
+2026-04-17 06:42:40,241 - healthcare_logger - INFO - Retrieving patient with ID: 8141
+2026-04-17 06:42:40,241 - healthcare_logger - INFO - Patient added: Patient(id=8141, name='Amy Wright', dob=1974-04-07, ailment='Effort for onto.')
+2026-04-17 06:42:40,241 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:42:40,241 - healthcare_logger - INFO - Retrieving doctor with ID: 7273
+2026-04-17 06:42:40,241 - healthcare_logger - INFO - Retrieving patient with ID: 8141
+2026-04-17 06:42:40,241 - healthcare_logger - INFO - Adding appointment: Appointment(id=7041, doctor=Doctor(id=7273, name='Pamela Brown MD', specialization='Television floor manager'), patient=Patient(id=8141, name='Amy Wright', dob=1974-04-07, ailment='Effort for onto.'), date=2004-01-02, time=15:44:38)
+2026-04-17 06:42:40,241 - healthcare_logger - INFO - Fetching appointment with ID: 7041
+2026-04-17 06:42:40,241 - healthcare_logger - INFO - Appointment added: Appointment(id=7041, doctor=Doctor(id=7273, name='Pamela Brown MD', specialization='Television floor manager'), patient=Patient(id=8141, name='Amy Wright', dob=1974-04-07, ailment='Effort for onto.'), date=2004-01-02, time=15:44:38)
+2026-04-17 06:43:07,219 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:43:07,220 - healthcare_logger - INFO - Adding doctor: Doctor(id=7354, name='Tammy Parker', specialization='Teacher, special educational needs')
+2026-04-17 06:43:07,220 - healthcare_logger - INFO - Retrieving doctor with ID: 7354
+2026-04-17 06:43:07,220 - healthcare_logger - INFO - Doctor added: Doctor(id=7354, name='Tammy Parker', specialization='Teacher, special educational needs')
+2026-04-17 06:43:07,220 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:43:07,220 - healthcare_logger - INFO - Adding patient: Patient(id=9161, name='Peggy Rowe', dob=1944-10-04, ailment='Result dark hit late happen.')
+2026-04-17 06:43:07,220 - healthcare_logger - INFO - Retrieving patient with ID: 9161
+2026-04-17 06:43:07,220 - healthcare_logger - INFO - Patient added: Patient(id=9161, name='Peggy Rowe', dob=1944-10-04, ailment='Result dark hit late happen.')
+2026-04-17 06:43:07,220 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:43:07,220 - healthcare_logger - INFO - Retrieving doctor with ID: 7354
+2026-04-17 06:43:07,221 - healthcare_logger - INFO - Retrieving patient with ID: 9161
+2026-04-17 06:43:07,221 - healthcare_logger - INFO - Adding appointment: Appointment(id=5609, doctor=Doctor(id=7354, name='Tammy Parker', specialization='Teacher, special educational needs'), patient=Patient(id=9161, name='Peggy Rowe', dob=1944-10-04, ailment='Result dark hit late happen.'), date=2009-02-24, time=18:16:42)
+2026-04-17 06:43:07,221 - healthcare_logger - INFO - Fetching appointment with ID: 5609
+2026-04-17 06:43:07,221 - healthcare_logger - INFO - Appointment added: Appointment(id=5609, doctor=Doctor(id=7354, name='Tammy Parker', specialization='Teacher, special educational needs'), patient=Patient(id=9161, name='Peggy Rowe', dob=1944-10-04, ailment='Result dark hit late happen.'), date=2009-02-24, time=18:16:42)
+2026-04-17 06:43:31,819 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:43:31,819 - healthcare_logger - INFO - Adding doctor: Doctor(id=7754, name='Elizabeth Howell', specialization='Records manager')
+2026-04-17 06:43:31,819 - healthcare_logger - INFO - Retrieving doctor with ID: 7754
+2026-04-17 06:43:31,819 - healthcare_logger - INFO - Doctor added: Doctor(id=7754, name='Elizabeth Howell', specialization='Records manager')
+2026-04-17 06:43:31,819 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:43:31,820 - healthcare_logger - INFO - Adding patient: Patient(id=1739, name='Timothy Davidson', dob=1981-04-13, ailment='Learn feeling son wind campaign.')
+2026-04-17 06:43:31,820 - healthcare_logger - INFO - Retrieving patient with ID: 1739
+2026-04-17 06:43:31,820 - healthcare_logger - INFO - Patient added: Patient(id=1739, name='Timothy Davidson', dob=1981-04-13, ailment='Learn feeling son wind campaign.')
+2026-04-17 06:43:31,820 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:43:31,820 - healthcare_logger - INFO - Retrieving doctor with ID: 7754
+2026-04-17 06:43:31,820 - healthcare_logger - INFO - Retrieving patient with ID: 1739
+2026-04-17 06:43:31,820 - healthcare_logger - INFO - Adding appointment: Appointment(id=3901, doctor=Doctor(id=7754, name='Elizabeth Howell', specialization='Records manager'), patient=Patient(id=1739, name='Timothy Davidson', dob=1981-04-13, ailment='Learn feeling son wind campaign.'), date=1990-11-12, time=16:44:49)
+2026-04-17 06:43:31,820 - healthcare_logger - INFO - Fetching appointment with ID: 3901
+2026-04-17 06:43:31,820 - healthcare_logger - INFO - Appointment added: Appointment(id=3901, doctor=Doctor(id=7754, name='Elizabeth Howell', specialization='Records manager'), patient=Patient(id=1739, name='Timothy Davidson', dob=1981-04-13, ailment='Learn feeling son wind campaign.'), date=1990-11-12, time=16:44:49)
+2026-04-17 06:47:34,139 - healthcare_logger - INFO - app doctor agent is running...
+2026-04-17 06:47:34,140 - healthcare_logger - INFO - Adding doctor: Doctor(id=3347, name='David Pineda', specialization='Designer, fashion/clothing')
+2026-04-17 06:47:34,140 - healthcare_logger - INFO - Retrieving doctor with ID: 3347
+2026-04-17 06:47:34,140 - healthcare_logger - INFO - Doctor added: Doctor(id=3347, name='David Pineda', specialization='Designer, fashion/clothing')
+2026-04-17 06:47:34,140 - healthcare_logger - INFO - app patient agent is running...
+2026-04-17 06:47:34,140 - healthcare_logger - INFO - Adding patient: Patient(id=5605, name='Jennifer Lewis', dob=1965-08-29, ailment='Discover anyone natural authority part build high.')
+2026-04-17 06:47:34,140 - healthcare_logger - INFO - Retrieving patient with ID: 5605
+2026-04-17 06:47:34,140 - healthcare_logger - INFO - Patient added: Patient(id=5605, name='Jennifer Lewis', dob=1965-08-29, ailment='Discover anyone natural authority part build high.')
+2026-04-17 06:47:34,140 - healthcare_logger - INFO - app appointment agent is running...
+2026-04-17 06:47:34,141 - healthcare_logger - INFO - Retrieving doctor with ID: 3347
+2026-04-17 06:47:34,141 - healthcare_logger - INFO - Retrieving patient with ID: 5605
+2026-04-17 06:47:34,141 - healthcare_logger - INFO - Adding appointment: Appointment(id=9543, doctor=Doctor(id=3347, name='David Pineda', specialization='Designer, fashion/clothing'), patient=Patient(id=5605, name='Jennifer Lewis', dob=1965-08-29, ailment='Discover anyone natural authority part build high.'), date=2019-02-02, time=16:24:26)
+2026-04-17 06:47:34,141 - healthcare_logger - INFO - Fetching appointment with ID: 9543
+2026-04-17 06:47:34,141 - healthcare_logger - INFO - Appointment added: Appointment(id=9543, doctor=Doctor(id=3347, name='David Pineda', specialization='Designer, fashion/clothing'), patient=Patient(id=5605, name='Jennifer Lewis', dob=1965-08-29, ailment='Discover anyone natural authority part build high.'), date=2019-02-02, time=16:24:26)
+2026-04-17 11:55:01,109 - healthcare_logger - INFO - Mobile number updated to: 4716035656

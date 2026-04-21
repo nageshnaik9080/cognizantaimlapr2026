@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone_no
+2001,Arun,Kumar,arun.kumar@example.com,9876543210
+2002,Meena,Raj,meena.raj@example.com,9123456780
+2003,Vikram,Sharma,vikram.sharma@example.com,9988776655
+2004,Latha,Menon,latha.menon@example.com,9345678901
+2005,Ravi,Patel,ravi.patel@example.com,9456123789
+2006,Anita,Verma,anita.verma@example.com,9765432109
+2007,Suresh,Gupta,suresh.gupta@example.com,9234567890
+2008,Deepa,Nair,deepa.nair@example.com,9356789012
+2009,Karthik,Reddy,karthik.reddy@example.com,9876123450
+2010,Pooja,Joshi,pooja.joshi@example.com,9567890123

@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: BankingSystem
+Version: 1.0.0
+Summary: Banking System
+Author-email: Shanmuga Lingam <shanmugalingam2005@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: faker>=13.3.4
+Provides-Extra: dev
+Requires-Dist: pytest>=7.2.0; extra == "dev"
+Requires-Dist: pytest-html>=4.2.0; extra == "dev"
+Requires-Dist: pytest-cov>=3.0.0; extra == "dev"
+Requires-Dist: black>=23.3.0; extra == "dev"
+Requires-Dist: isort>=5.10.0; extra == "dev"
+Requires-Dist: sphinx>=5.0.0; extra == "dev"
+
+# BankingSystem
+
+BankingSystem is a simple banking application project that demonstrates an MVC-style model package with accounts, customers, and transaction types.
+
+## Structure
+
+- `src/` — source package root
+- `src/models/` — domain model classes
+- `tests/` — automated tests
+- `docs/` — documentation and design notes
